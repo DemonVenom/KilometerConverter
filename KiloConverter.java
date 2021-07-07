@@ -1,10 +1,8 @@
-package Assignment9;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-// Create Assignment9.KiloConverter class that convert kilometers into miles
+// Create KiloConverter class that convert kilometers into miles
 
 public class KiloConverter extends JFrame {
 
