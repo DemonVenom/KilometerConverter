@@ -1,11 +1,11 @@
-package Assignment9;
-// Create class to test the Assignment9.KiloConverter class
+
+// Create class to test the KiloConverter class
 
 public class DriverKC {
 
     public static void main(String[] args) {
 
-        // Create new Assignment9.KiloConverter object
+        // Create new KiloConverter object
         new KiloConverter();
     }
 
